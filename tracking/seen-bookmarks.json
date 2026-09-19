@@ -1,0 +1,17 @@
+{
+  "proposed": [
+    {
+      "id": "2100211596886704477",
+      "title": "OpenUI — generative UI framework (thesysdev/openui)",
+      "url": "https://x.com/DanKornas/status/2100211596886704477",
+      "date": "2026-09-18",
+      "tech": "OpenUI",
+      "slug": "openui-chat",
+      "github": "https://github.com/thesysdev/openui",
+      "status": "approved"
+    }
+  ],
+  "skipped": [],
+  "built": [],
+  "notes": "Sticky monorepo tracking. Migrated from agent interim file on bootstrap."
+}
