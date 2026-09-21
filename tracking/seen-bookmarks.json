@@ -9,6 +9,16 @@
       "slug": "openui-chat",
       "github": "https://github.com/thesysdev/openui",
       "status": "approved"
+    },
+    {
+      "id": "2101402609064022110",
+      "title": "Preloop — open-source AI agent control plane (MCP firewall + model gateway)",
+      "url": "https://x.com/DanKornas/status/2101402609064022110",
+      "date": "2026-09-21",
+      "tech": "Preloop",
+      "slug": "preloop-console",
+      "github": "https://github.com/preloop/preloop",
+      "status": "proposed"
     }
   ],
   "skipped": [],
