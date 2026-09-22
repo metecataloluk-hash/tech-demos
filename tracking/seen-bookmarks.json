@@ -19,6 +19,16 @@
       "slug": "preloop-console",
       "github": "https://github.com/preloop/preloop",
       "status": "proposed"
+    },
+    {
+      "id": "2100946395972976843",
+      "title": "Compositor — open-source Photoshop alternative for Mac (robbietilton/Compositor)",
+      "url": "https://x.com/robbietilton/status/2100946395972976843",
+      "date": "2026-09-22",
+      "tech": "Compositor",
+      "slug": "compositor-lite",
+      "github": "https://github.com/robbietilton/Compositor",
+      "status": "proposed"
     }
   ],
   "skipped": [],
