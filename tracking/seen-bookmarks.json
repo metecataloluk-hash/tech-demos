@@ -39,6 +39,16 @@
       "slug": "jev-console",
       "github": "https://docs.typesafe.ai/introduction",
       "status": "proposed"
+    },
+    {
+      "id": "2101529333135282383",
+      "title": "Project NOMAD — offline-first knowledge server (Wikipedia, courses, maps, local AI)",
+      "url": "https://x.com/bakigulai/status/2101529333135282383",
+      "date": "2026-09-24",
+      "tech": "Project NOMAD",
+      "slug": "nomad-lite",
+      "github": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "status": "proposed"
     }
   ],
   "skipped": [],
