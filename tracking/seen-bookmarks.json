@@ -18,7 +18,7 @@
       "tech": "Preloop",
       "slug": "preloop-console",
       "github": "https://github.com/preloop/preloop",
-      "status": "proposed"
+      "status": "skipped"
     },
     {
       "id": "2100946395972976843",
@@ -28,7 +28,7 @@
       "tech": "Compositor",
       "slug": "compositor-lite",
       "github": "https://github.com/robbietilton/Compositor",
-      "status": "proposed"
+      "status": "skipped"
     },
     {
       "id": "2102206611024716181",
@@ -38,7 +38,7 @@
       "tech": "Jev",
       "slug": "jev-console",
       "github": "https://docs.typesafe.ai/introduction",
-      "status": "proposed"
+      "status": "skipped"
     },
     {
       "id": "2101529333135282383",
@@ -48,10 +48,25 @@
       "tech": "Project NOMAD",
       "slug": "nomad-lite",
       "github": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "status": "skipped"
+    },
+    {
+      "id": "2101987688211497065",
+      "title": "WrongStack — open-source AI coding agent (WebUI, TUI, SAGE memory)",
+      "url": "https://x.com/Wrong_Stack/status/2101987688211497065",
+      "date": "2026-09-25",
+      "tech": "WrongStack",
+      "slug": "wrongstack-lite",
+      "github": "https://github.com/WrongStack/WrongStack",
       "status": "proposed"
     }
   ],
-  "skipped": [],
+  "skipped": [
+    "2101402609064022110",
+    "2100946395972976843",
+    "2102206611024716181",
+    "2101529333135282383"
+  ],
   "built": [],
   "notes": "Sticky monorepo tracking. Migrated from agent interim file on bootstrap."
 }
