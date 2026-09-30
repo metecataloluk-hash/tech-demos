@@ -79,6 +79,17 @@
       "tech": "Metronix Memory",
       "slug": "metronix-lite",
       "github": "https://github.com/mtrnix/metronix-memory",
+      "status": "skipped",
+      "skip_note": "Owner moved on unanswered (2026-09-30); treated as Skip."
+    },
+    {
+      "id": "2104662162505334974",
+      "title": "GAIA — open-source personal AI assistant (theexperiencecompany/gaia)",
+      "url": "https://x.com/DanKornas/status/2104662162505334974",
+      "date": "2026-09-30",
+      "tech": "GAIA",
+      "slug": "gaia-lite",
+      "github": "https://github.com/theexperiencecompany/gaia",
       "status": "proposed"
     }
   ],
@@ -88,7 +99,8 @@
     "2102206611024716181",
     "2101529333135282383",
     "2101987688211497065",
-    "2103756204061122748"
+    "2103756204061122748",
+    "2104639537632743608"
   ],
   "built": [],
   "notes": "Sticky monorepo tracking. Migrated from agent interim file on bootstrap."
