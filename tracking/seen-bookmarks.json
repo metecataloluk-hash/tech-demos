@@ -90,6 +90,17 @@
       "tech": "GAIA",
       "slug": "gaia-lite",
       "github": "https://github.com/theexperiencecompany/gaia",
+      "status": "skipped",
+      "skip_note": "Owner moved on unanswered (2026-10-01); treated as Skip."
+    },
+    {
+      "id": "2104673485721149601",
+      "title": "Astra Flash Orchestrator — Codex skill: Astra plans/reviews, DeepSeek Flash builds (ethanplusai/astra-flash-orchestrator)",
+      "url": "https://x.com/DanKornas/status/2104673485721149601",
+      "date": "2026-10-01",
+      "tech": "Astra Flash Orchestrator",
+      "slug": "astra-flash-lite",
+      "github": "https://github.com/ethanplusai/astra-flash-orchestrator",
       "status": "proposed"
     }
   ],
@@ -100,7 +111,8 @@
     "2101529333135282383",
     "2101987688211497065",
     "2103756204061122748",
-    "2104639537632743608"
+    "2104639537632743608",
+    "2104662162505334974"
   ],
   "built": [],
   "notes": "Sticky monorepo tracking. Migrated from agent interim file on bootstrap."
