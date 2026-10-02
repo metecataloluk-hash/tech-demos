@@ -101,6 +101,17 @@
       "tech": "Astra Flash Orchestrator",
       "slug": "astra-flash-lite",
       "github": "https://github.com/ethanplusai/astra-flash-orchestrator",
+      "status": "skipped",
+      "skip_note": "Owner moved on unanswered (2026-10-02); treated as Skip."
+    },
+    {
+      "id": "2101844704933621971",
+      "title": "ZCode — open-source AI coding workspace: desktop, browser, Agent CLI/TUI (zai-org/ZCode)",
+      "url": "https://x.com/zcode_ai/status/2101844704933621971",
+      "date": "2026-10-02",
+      "tech": "ZCode",
+      "slug": "zcode-lite",
+      "github": "https://github.com/zai-org/ZCode",
       "status": "proposed"
     }
   ],
@@ -112,7 +123,8 @@
     "2101987688211497065",
     "2103756204061122748",
     "2104639537632743608",
-    "2104662162505334974"
+    "2104662162505334974",
+    "2104673485721149601"
   ],
   "built": [],
   "notes": "Sticky monorepo tracking. Migrated from agent interim file on bootstrap."
